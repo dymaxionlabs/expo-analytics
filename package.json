@@ -1,6 +1,6 @@
 {
-  "name": "@meecode/expo-analytics",
-  "version": "1.2.0",
+  "name": "@dymaxionlabs/expo-analytics",
+  "version": "1.2.1",
   "description": "Google Analytics integration for use with React Native apps built on Expo.",
   "main": "index.js",
   "types": "types.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanvanderpol/expo-analytics.git"
+    "url": "git+https://github.com/dymaxionlabs/expo-analytics.git"
   },
   "keywords": [
     "react",
@@ -21,16 +21,16 @@
   "author": "Ryan Vanderpol",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryanvanderpol/expo-analytics/issues"
+    "url": "https://github.com/dymaxionlabs/expo-analytics/issues"
   },
-  "homepage": "https://github.com/ryanvanderpol/expo-analytics#readme",
+  "homepage": "https://github.com/dymaxionlabs/expo-analytics#readme",
   "dependencies": {
-    "expo-constants": "^13.2.4",
-    "expo-application": "^4.2.2"
+    "expo-constants": "^14.2.1",
+    "expo-application": "^5.1.1"
   },
   "devDependencies": {
-    "expo": "^46.0.9",
+    "expo": "^48.0.0",
     "react": "18.2.0",
-    "react-native": "0.69.5"
+    "react-native": "0.71.8"
   }
 }
